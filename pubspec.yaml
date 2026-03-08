@@ -10,13 +10,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   cupertino_icons: ^1.0.8
+  record: ^5.1.2
+  just_audio: ^0.9.46
   url_launcher: ^6.3.0
-  http: ^1.2.1
-  shared_preferences: ^2.2.3
-  record: ^6.1.1
-  path_provider: ^2.1.5
+  path_provider: ^2.1.4
 
 dev_dependencies:
   flutter_test:
